@@ -45,3 +45,9 @@ In an infinite loop, waits for TRIGG to be 1 and then:
 - sets STOP to 1
 - sets START to 0
 - sets STOP to 0
+
+## Setup
+
+TDC7200 is mounted on a DIP adapter and on a breadboard.
+
+![setup](setup.jpg?raw=true)
