@@ -3,7 +3,7 @@
 
 This is just a basic demo, the programs are not implemented 100% correct, they are not intended to be re-used somewhere else.
 
-Just do a make to compile the programs. wiringPi library is required.
+Just do a make to compile the programs. wiringPi library is required. spidev has to be enabled on RPi.
 
 Start dut first, then tia. tia can be run multiple times without stopping dut.
 
